@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.10_Collections_ArraysOfObject\bin\Debug\0.10_Collections_ArraysOfObject.exe.config
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.10_Collections_ArraysOfObject\bin\Debug\0.10_Collections_ArraysOfObject.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.10_Collections_ArraysOfObject\bin\Debug\0.10_Collections_ArraysOfObject.pdb
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.10_Collections_ArraysOfObject\obj\Debug\0.10_Collections_ArraysOfObject.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.10_Collections_ArraysOfObject\obj\Debug\0.10_Collections_ArraysOfObject.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.10_Collections_ArraysOfObject\obj\Debug\0.10_Collections_ArraysOfObject.pdb

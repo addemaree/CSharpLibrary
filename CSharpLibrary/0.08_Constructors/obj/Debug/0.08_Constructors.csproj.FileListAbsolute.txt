@@ -1,0 +1,6 @@
+\\mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.08_Constructors\bin\Debug\0.08_Constructors.exe.config
+\\mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.08_Constructors\bin\Debug\0.08_Constructors.exe
+\\mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.08_Constructors\bin\Debug\0.08_Constructors.pdb
+\\mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.08_Constructors\obj\Debug\0.08_Constructors.csprojResolveAssemblyReference.cache
+\\mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.08_Constructors\obj\Debug\0.08_Constructors.exe
+\\mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.08_Constructors\obj\Debug\0.08_Constructors.pdb

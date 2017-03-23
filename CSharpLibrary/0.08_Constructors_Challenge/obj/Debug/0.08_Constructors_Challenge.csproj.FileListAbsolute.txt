@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.08_Constructors_Challenge\bin\Debug\0.08_Constructors_Challenge.exe.config
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.08_Constructors_Challenge\bin\Debug\0.08_Constructors_Challenge.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.08_Constructors_Challenge\bin\Debug\0.08_Constructors_Challenge.pdb
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.08_Constructors_Challenge\obj\Debug\0.08_Constructors_Challenge.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.08_Constructors_Challenge\obj\Debug\0.08_Constructors_Challenge.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.08_Constructors_Challenge\obj\Debug\0.08_Constructors_Challenge.pdb

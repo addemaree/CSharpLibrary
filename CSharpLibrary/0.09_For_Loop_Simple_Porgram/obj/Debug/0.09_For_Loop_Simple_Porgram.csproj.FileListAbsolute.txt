@@ -1,0 +1,5 @@
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.09_For_Loop_Simple_Porgram\bin\Debug\0.09_For_Loop_Simple_Porgram.exe.config
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.09_For_Loop_Simple_Porgram\bin\Debug\0.09_For_Loop_Simple_Porgram.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.09_For_Loop_Simple_Porgram\bin\Debug\0.09_For_Loop_Simple_Porgram.pdb
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.09_For_Loop_Simple_Porgram\obj\Debug\0.09_For_Loop_Simple_Porgram.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.09_For_Loop_Simple_Porgram\obj\Debug\0.09_For_Loop_Simple_Porgram.pdb
