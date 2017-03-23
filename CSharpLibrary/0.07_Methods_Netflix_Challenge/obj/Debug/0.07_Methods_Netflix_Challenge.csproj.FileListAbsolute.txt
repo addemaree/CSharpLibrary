@@ -3,3 +3,4 @@
 \\mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods_Netflix_Challenge\bin\Debug\0.07_Methods_Netflix_Challenge.pdb
 \\mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods_Netflix_Challenge\obj\Debug\0.07_Methods_Netflix_Challenge.exe
 \\mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods_Netflix_Challenge\obj\Debug\0.07_Methods_Netflix_Challenge.pdb
+\\mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods_Netflix_Challenge\obj\Debug\0.07_Methods_Netflix_Challenge.csprojResolveAssemblyReference.cache

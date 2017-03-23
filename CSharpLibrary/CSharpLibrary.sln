@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.07_Methods", "0.07_Method
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.07_Methods_Netflix_Challenge", "0.07_Methods_Netflix_Challenge\0.07_Methods_Netflix_Challenge.csproj", "{2CACE4BC-564E-4F8D-83C5-B7B28D590A38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.07_Methods_Overloading", "0.07_Methods_Overloading\0.07_Methods_Overloading.csproj", "{C9488230-E4C3-4798-AAA2-3BAF32EFC9B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{2CACE4BC-564E-4F8D-83C5-B7B28D590A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CACE4BC-564E-4F8D-83C5-B7B28D590A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CACE4BC-564E-4F8D-83C5-B7B28D590A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9488230-E4C3-4798-AAA2-3BAF32EFC9B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9488230-E4C3-4798-AAA2-3BAF32EFC9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9488230-E4C3-4798-AAA2-3BAF32EFC9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9488230-E4C3-4798-AAA2-3BAF32EFC9B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
