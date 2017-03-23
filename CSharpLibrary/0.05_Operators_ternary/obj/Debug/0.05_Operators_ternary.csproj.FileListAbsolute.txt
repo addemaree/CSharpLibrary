@@ -1,0 +1,5 @@
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.05_Operators_ternary\bin\Debug\0.05_Operators_ternary.exe.config
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.05_Operators_ternary\bin\Debug\0.05_Operators_ternary.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.05_Operators_ternary\bin\Debug\0.05_Operators_ternary.pdb
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.05_Operators_ternary\obj\Debug\0.05_Operators_ternary.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.05_Operators_ternary\obj\Debug\0.05_Operators_ternary.pdb

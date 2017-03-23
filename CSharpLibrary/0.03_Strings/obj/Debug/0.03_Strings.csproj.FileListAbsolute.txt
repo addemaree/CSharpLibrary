@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.03_Strings\obj\Debug\0.03_Strings.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.03_Strings\bin\Debug\0.03_Strings.exe.config
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.03_Strings\bin\Debug\0.03_Strings.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.03_Strings\bin\Debug\0.03_Strings.pdb
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.03_Strings\obj\Debug\0.03_Strings.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.03_Strings\obj\Debug\0.03_Strings.pdb

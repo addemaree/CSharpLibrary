@@ -1,0 +1,5 @@
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04 Conditionals_ternary\bin\Debug\0.04 Conditionals_ternary.exe.config
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04 Conditionals_ternary\bin\Debug\0.04 Conditionals_ternary.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04 Conditionals_ternary\bin\Debug\0.04 Conditionals_ternary.pdb
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04 Conditionals_ternary\obj\Debug\0.04 Conditionals_ternary.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04 Conditionals_ternary\obj\Debug\0.04 Conditionals_ternary.pdb

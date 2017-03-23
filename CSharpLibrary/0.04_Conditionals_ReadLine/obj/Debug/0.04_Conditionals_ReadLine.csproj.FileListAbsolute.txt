@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditionals_ReadLine\bin\Debug\0.04_Conditionals_ReadLine.exe.config
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditionals_ReadLine\bin\Debug\0.04_Conditionals_ReadLine.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditionals_ReadLine\bin\Debug\0.04_Conditionals_ReadLine.pdb
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditionals_ReadLine\obj\Debug\0.04_Conditionals_ReadLine.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditionals_ReadLine\obj\Debug\0.04_Conditionals_ReadLine.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditionals_ReadLine\obj\Debug\0.04_Conditionals_ReadLine.pdb

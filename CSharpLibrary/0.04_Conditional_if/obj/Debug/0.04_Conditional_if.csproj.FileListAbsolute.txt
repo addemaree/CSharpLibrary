@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditional_if\obj\Debug\0.04_Conditional_if.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditional_if\bin\Debug\0.04_Conditional_if.exe.config
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditional_if\bin\Debug\0.04_Conditional_if.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditional_if\bin\Debug\0.04_Conditional_if.pdb
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditional_if\obj\Debug\0.04_Conditional_if.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditional_if\obj\Debug\0.04_Conditional_if.pdb

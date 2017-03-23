@@ -1,0 +1,5 @@
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.02BasicTypes_Challenges\bin\Debug\0.02BasicTypes_Challenges.exe.config
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.02BasicTypes_Challenges\bin\Debug\0.02BasicTypes_Challenges.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.02BasicTypes_Challenges\bin\Debug\0.02BasicTypes_Challenges.pdb
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.02BasicTypes_Challenges\obj\Debug\0.02BasicTypes_Challenges.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.02BasicTypes_Challenges\obj\Debug\0.02BasicTypes_Challenges.pdb

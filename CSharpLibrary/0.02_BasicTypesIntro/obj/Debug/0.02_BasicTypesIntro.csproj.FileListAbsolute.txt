@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.02_BasicTypesIntro\bin\Debug\0.02_BasicTypesIntro.exe.config
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.02_BasicTypesIntro\bin\Debug\0.02_BasicTypesIntro.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.02_BasicTypesIntro\bin\Debug\0.02_BasicTypesIntro.pdb
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.02_BasicTypesIntro\obj\Debug\0.02_BasicTypesIntro.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.02_BasicTypesIntro\obj\Debug\0.02_BasicTypesIntro.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.02_BasicTypesIntro\obj\Debug\0.02_BasicTypesIntro.pdb
