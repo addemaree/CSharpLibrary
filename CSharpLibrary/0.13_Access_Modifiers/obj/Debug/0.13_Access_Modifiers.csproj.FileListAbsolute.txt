@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.13_Access_Modifiers\bin\Debug\0.13_Access_Modifiers.exe.config
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.13_Access_Modifiers\bin\Debug\0.13_Access_Modifiers.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.13_Access_Modifiers\bin\Debug\0.13_Access_Modifiers.pdb
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.13_Access_Modifiers\obj\Debug\0.13_Access_Modifiers.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.13_Access_Modifiers\obj\Debug\0.13_Access_Modifiers.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.13_Access_Modifiers\obj\Debug\0.13_Access_Modifiers.pdb
