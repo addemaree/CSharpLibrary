@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.11_Collections_and_Dictionaries\bin\Debug\0.11_Collections_and_Dictionaries.exe.config
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.11_Collections_and_Dictionaries\bin\Debug\0.11_Collections_and_Dictionaries.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.11_Collections_and_Dictionaries\bin\Debug\0.11_Collections_and_Dictionaries.pdb
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.11_Collections_and_Dictionaries\obj\Debug\0.11_Collections_and_Dictionaries.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.11_Collections_and_Dictionaries\obj\Debug\0.11_Collections_and_Dictionaries.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.11_Collections_and_Dictionaries\obj\Debug\0.11_Collections_and_Dictionaries.pdb
