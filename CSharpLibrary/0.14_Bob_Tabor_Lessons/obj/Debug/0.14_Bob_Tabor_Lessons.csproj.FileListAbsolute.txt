@@ -1,0 +1,5 @@
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.14_Bob_Tabor_Lessons\bin\Debug\0.14_Bob_Tabor_Lessons.exe.config
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.14_Bob_Tabor_Lessons\bin\Debug\0.14_Bob_Tabor_Lessons.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.14_Bob_Tabor_Lessons\bin\Debug\0.14_Bob_Tabor_Lessons.pdb
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.14_Bob_Tabor_Lessons\obj\Debug\0.14_Bob_Tabor_Lessons.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.14_Bob_Tabor_Lessons\obj\Debug\0.14_Bob_Tabor_Lessons.pdb

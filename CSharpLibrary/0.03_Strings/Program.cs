@@ -29,7 +29,7 @@ namespace _0._03_Strings
             //Bronze Challenge
 
 
-            /*Silver Challenge
+            //Silver Challenge
 
             string lastName;
             string todayDate;
@@ -41,10 +41,11 @@ namespace _0._03_Strings
             classSubject = "C#";
             jobTitle = "developer";
 
-            Console.WriteLine("Dear " + lastName);
+            Console.WriteLine("Dear " + lastName +",");
             Console.WriteLine("Today is " + todayDate + " " + "I'm enjoying class, and I think I like " + classSubject + " " + "the best.");
             Console.WriteLine("I'd like to get a job as a " + jobTitle + " after I finish this course.");
-            Console.ReadLine();*/
+                      
+            Console.ReadLine();
 
             //Gold Challenge
 

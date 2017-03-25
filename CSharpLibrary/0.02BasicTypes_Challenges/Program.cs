@@ -10,28 +10,13 @@ namespace _0._02BasicTypes_Challenges
     {
         static void Main(string[] args)
         {
-            /*Declaration Bronze Challenge
+            //Declaration Bronze Challenge
 
-            int age = 26;
-            int oldage;
+            float temperature = 57.5f;
+            Console.WriteLine(temperature);
+            Console.ReadLine();
 
-            string first = "Adam is ";
-            string second = " years old, but last year was ";
-
-            bool isMarried;
-            bool isHappy = true;
-
-            float amountofSnow;
-            float temperature = 67.9f;
-
-            double latitude;
-            double oneThird = 3.333333d;
-
-            decimal =
-            decimal =*/
-
-
-            Silver Challenge
+            /*Silver Challenge
 
             string firstName;
             string lastName;
@@ -63,7 +48,7 @@ namespace _0._02BasicTypes_Challenges
             electionDate = "November 8 2016.";
             Console.WriteLine(firstName + " " + lastName + " won the election on " + electionDate);
             Console.WriteLine("This makes " + firstName + " " + lastName + " the " + presidentNumber + " of the United States.");
-            Console.ReadLine();
+            Console.ReadLine();*/
 
 
 

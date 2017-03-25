@@ -55,6 +55,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.12_Inheritance", "0.12_In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.13_Access_Modifiers", "0.13_Access_Modifiers\0.13_Access_Modifiers.csproj", "{A62F0747-0010-4928-9216-90F2B3EDCD14}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.14_Week1_Weekend_Review", "0.14_Week1_Weekend_Review\0.14_Week1_Weekend_Review.csproj", "{3F73043C-A262-4766-908C-0C175F7240DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.14_Bob_Tabor_Lessons", "0.14_Bob_Tabor_Lessons\0.14_Bob_Tabor_Lessons.csproj", "{D98A88CE-A0F9-4489-963C-B1451767B4DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +169,14 @@ Global
 		{A62F0747-0010-4928-9216-90F2B3EDCD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A62F0747-0010-4928-9216-90F2B3EDCD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A62F0747-0010-4928-9216-90F2B3EDCD14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F73043C-A262-4766-908C-0C175F7240DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F73043C-A262-4766-908C-0C175F7240DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F73043C-A262-4766-908C-0C175F7240DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F73043C-A262-4766-908C-0C175F7240DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D98A88CE-A0F9-4489-963C-B1451767B4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98A88CE-A0F9-4489-963C-B1451767B4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98A88CE-A0F9-4489-963C-B1451767B4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98A88CE-A0F9-4489-963C-B1451767B4DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
