@@ -11,24 +11,39 @@ namespace _0._14_Bob_Tabor_Lessons_For_Iterations
         static void Main(string[] args)
         {
 
-            //for (int i = 0; i < 10; i++)
-            //{
-            //    Console.WriteLine(i);
-            //}
+           //for (int i = 0; i < 30; i++)
+           // {
+           //     if (i == 25)
+           //     {
+           //         Console.WriteLine("Twenty-Five is correct! Good Job!");
+           //         break;
+           //     }
+           //     else
+           //     {
+           //         Console.WriteLine(i);
+           //     }
+           // }
 
 
-            for (int i = 0; i < 10; i++)
+
+
+
+            for(int i = 0; i <60; i++)
             {
-                if (i == 7)
+                if (i == 45)
                 {
-                    Console.WriteLine("Found seven!");
+                    Console.WriteLine("Ready or not... Here I come!");
                     break;
+                }
+                else
+                {
+                    Console.WriteLine(i);
+
                 }
             }
 
             Console.ReadLine();
 
-            
 
 
 
@@ -39,5 +54,6 @@ namespace _0._14_Bob_Tabor_Lessons_For_Iterations
 
 
         }
+        
     }
 }
