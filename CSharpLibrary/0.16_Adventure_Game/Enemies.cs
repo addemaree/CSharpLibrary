@@ -38,18 +38,18 @@ namespace _0._16_Adventure_Game
             Console.WriteLine("{0} is also at full health at {1}", Name, PowerLevel);
         }
         //setting a target for the enemy
-        public void Attack(Players player)
+        public void Attack(Players player, Dictionary<string, int> dict, Object enemyName)
         {
             
-            Dictionary<string, int> Attacks = new Dictionary<string, int> {
-                { "Head-Butt", 5 },
-                { "Mallet", 5 },
-                {"Poison Fangs", 35}
-            };
+           
+            var singleAttack = dict.ElementAt(rnd.Next(dict.Count));
+            int attackVal = singleAttack.Value;
+            string attackName = singleAttack.Key;
 
-
+            Console.WriteLine("Enemy is attacking with {0} and deals {1}", attackName, attackVal);
+            
             Console.WriteLine("{0}'s power is at {1} pts", player.PlayerName, player.CurrentPower);
-            player.CurrentPower -= 15; //player.CurrentPower = player.CurrentPower -15
+            player.CurrentPower -= attackVal; //player.CurrentPower = player.CurrentPower -15
 
 
         }

@@ -55,16 +55,39 @@ namespace _0._16_Adventure_Game
 
 
             Goblin Azark = new Goblin();
-            Azark.Name = "Azark the Goblin";
-            Azark.PowerLevel = 40;
 
-            Azark.Insult();
-            Console.WriteLine(player.CurrentPower);
-            Console.WriteLine("This is a new attack");
-            Azark.Attack(player);
-            Console.WriteLine(player.CurrentPower);
+            while(true)
+            {
+                Console.WriteLine("Do you want to fight? yes or no?");
+                string userAnswer = Console.ReadLine();
+                if (userAnswer == "yes")
+                {
+                    Azark.GoblinAttack(player);
+                    if(player.CurrentPower <=0)
+                    {
+                        Console.WriteLine("Oh you dead!");
+                        Azark.Insult();
+                        break;
+                    }
 
-            Azark.Attack(player);
+                }
+                else
+                {
+                    break;
+                }
+                
+            }
+
+            
+            //Console.WriteLine(player.CurrentPower);
+            //Azark.GoblinAttack(player);
+            //Console.WriteLine(player.CurrentPower);
+            //Console.WriteLine("This is a new attack");
+            //Azark.GoblinAttack(player);
+            //Console.WriteLine(player.CurrentPower);
+            
+
+            //Azark.GoblinAttack(player);
 
 
 
