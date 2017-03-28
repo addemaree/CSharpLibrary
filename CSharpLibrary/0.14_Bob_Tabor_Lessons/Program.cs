@@ -79,59 +79,59 @@ namespace _0._14_Bob_Tabor_Lessons
 
             //This is the same thing as:
 
-            //Console.WriteLine("Which coach would you like to coach Indiana? Archie Miller, Dane Fife, Billy Donovan, or Tom Crean?");
-            //string coachValue = Console.ReadLine();
-
-            //string message;
-
-            //if (coachValue == "Archie Miller")
-            //{
-            //    message = "You chose correctly!";
-            //}
-            //else if (coachValue == "Dane Fife")
-            //{
-            //    message = "Psh I wish!";
-
-            //}
-            //else if (coachValue == "Billy Donovan") 
-            //{
-            //    message = "In your dreams!";
-
-            //}
-            //else if (coachValue == "Tom Crean")
-            //{
-            //    message = "Quit living in the past!";
-
-            //}
-            //else
-            //{
-            //    message = "No one cares about him..";
-
-            //}
-
-            //Console.WriteLine(message);
-            //Console.ReadLine();
-
-
-            Console.WriteLine("Which of these choices do you conside your best friend? Kayley, Maddie, Katy, Rachel, Adam");
-            string bestFriend = Console.ReadLine();
+            Console.WriteLine("Which coach would you like to coach Indiana? Archie Miller, Dane Fife, Billy Donovan, or Tom Crean?");
+            string coachValue = Console.ReadLine();
 
             string message;
 
-            if (bestFriend == "Kayley")
-                message = "I thought that is what you would say";
-            else if (bestFriend == "Maddie")
-                message = "Nope. Try again...";
-            else if (bestFriend == "Katy")
-                message = "I could see why you would say that, but not what I was thinking..";
-            else if (bestFriend == "Rachel")
-                message = "Close, but no cigar..";
-            else if (bestFriend == "Adam")
-                message = "Quit brown nosin me and guess again ;)";
+            if (coachValue == "Archie Miller")
+            {
+                message = "You chose correctly!";
+            }
+            else if (coachValue == "Dane Fife")
+            {
+                message = "Psh I wish!";
+
+            }
+            else if (coachValue == "Billy Donovan")
+            {
+                message = "In your dreams!";
+
+            }
+            else if (coachValue == "Tom Crean")
+            {
+                message = "Quit living in the past!";
+
+            }
             else
-                message = "Never would have thought you would say that..";
+            {
+                message = "No one cares about him..";
+
+            }
 
             Console.WriteLine(message);
+            //Console.ReadLine();
+
+
+            //Console.WriteLine("Which of these choices do you conside your best friend? Kayley, Maddie, Katy, Rachel, Adam");
+            //string bestFriend = Console.ReadLine();
+
+            //string message;
+
+            //if (bestFriend == "Kayley")
+            //    message = "I thought that is what you would say";
+            //else if (bestFriend == "Maddie")
+            //    message = "Nope. Try again...";
+            //else if (bestFriend == "Katy")
+            //    message = "I could see why you would say that, but not what I was thinking..";
+            //else if (bestFriend == "Rachel")
+            //    message = "Close, but no cigar..";
+            //else if (bestFriend == "Adam")
+            //    message = "Quit brown nosin me and guess again ;)";
+            //else
+            //    message = "Never would have thought you would say that..";
+
+            //Console.WriteLine(message);
 
 
             //Same thing also as this:

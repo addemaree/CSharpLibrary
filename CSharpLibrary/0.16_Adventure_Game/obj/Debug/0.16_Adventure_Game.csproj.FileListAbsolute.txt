@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.16_Adventure_Game\bin\Debug\0.16_Adventure_Game.exe.config
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.16_Adventure_Game\bin\Debug\0.16_Adventure_Game.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.16_Adventure_Game\bin\Debug\0.16_Adventure_Game.pdb
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.16_Adventure_Game\obj\Debug\0.16_Adventure_Game.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.16_Adventure_Game\obj\Debug\0.16_Adventure_Game.pdb
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.16_Adventure_Game\obj\Debug\0.16_Adventure_Game.csprojResolveAssemblyReference.cache
