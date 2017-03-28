@@ -33,40 +33,58 @@ namespace _0._16_Adventure_Game
                 "2: Professor\n" +
                 "3: Horse Mange\n" +
                 "4: Tax Man\n" +
-                "5: Human");            
+                "5: Human");
+
             // "int. parse" allows the console to read the strings, or player types, and converts them into the number typed in by the user
+
             int playerType = int.Parse(Console.ReadLine());
 
             //This line of code is adding a new player to the class.
+
             Players player = new Players(name, clan, weapon);
 
             //This line of code is letting the console know which type of player you are. If you comment or delete this line, then the type will not show up as
             //the name of the player, but rather the number that the player type is associated with 
+
             player.ChooseType(playerType);
 
             //This line of code tells the console to write out what the user typed when answering the intial questions
             //It gives the system the ability to spit out the player details
             //The "To.String();" method needs to be inside of a Console.WriteLine(); !!
+
             Console.WriteLine(player.ToString());
 
             Console.WriteLine("==================");
             Console.WriteLine("First Level Enemy");
 
-
-
             Goblin Azark = new Goblin();
 
-            while(true)
+            while (true)
             {
                 Console.WriteLine("Do you want to fight? yes or no?");
                 string userAnswer = Console.ReadLine();
                 if (userAnswer == "yes")
                 {
+                    Azark.Insult();
                     Azark.GoblinAttack(player);
-                    if(player.CurrentPower <=0)
+                    Console.WriteLine(player.CurrentPower);
+                    Console.WriteLine("=============");
+                    player.BattleCry();
+                    player.PlayerAttack(Azark);
+                    Console.WriteLine(Azark.PowerLevel);
+                    Console.WriteLine("==============");
+                    
+
+                    if (player.CurrentPower <= 0)
                     {
                         Console.WriteLine("Oh you dead!");
                         Azark.Insult();
+                        break;
+                    }
+                    else if (Azark.PowerLevel <= 0)
+                    {
+                        Console.WriteLine("{0} gasps...I underestimated you maget! Well done! I now must go to exile!", Azark.Name);
+                        Console.WriteLine("You finished your fight with {0}HP",player.CurrentPower);
                         break;
                     }
 
@@ -75,19 +93,23 @@ namespace _0._16_Adventure_Game
                 {
                     break;
                 }
-                
+
             }
 
-            
+
             //Console.WriteLine(player.CurrentPower);
             //Azark.GoblinAttack(player);
             //Console.WriteLine(player.CurrentPower);
             //Console.WriteLine("This is a new attack");
             //Azark.GoblinAttack(player);
             //Console.WriteLine(player.CurrentPower);
-            
+
 
             //Azark.GoblinAttack(player);
+
+
+            //player.PlayerAttack(Azark);
+            //Console.WriteLine(Azark.PowerLevel);
 
 
 

@@ -46,9 +46,9 @@ namespace _0._16_Adventure_Game
             int attackVal = singleAttack.Value;
             string attackName = singleAttack.Key;
 
-            Console.WriteLine("Enemy is attacking with {0} and deals {1}", attackName, attackVal);
+            Console.WriteLine("Enemy is attacking with {0} and deals {1}HP", attackName, attackVal);
             
-            Console.WriteLine("{0}'s power is at {1} pts", player.PlayerName, player.CurrentPower);
+            Console.WriteLine("{0}'s power level was at {1}HP", player.PlayerName, player.CurrentPower);
             player.CurrentPower -= attackVal; //player.CurrentPower = player.CurrentPower -15
 
 

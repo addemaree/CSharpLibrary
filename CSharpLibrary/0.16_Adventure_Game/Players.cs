@@ -17,14 +17,19 @@ namespace _0._16_Adventure_Game
     }
     class Players
     {
-
+        Dictionary<string, int> Fighting = new Dictionary<string, int> {
+                { "Punch", 5 },
+                { "Kick", 10 },
+                { "Slash", 15 },
+                { "Stab", 20 }
+            };
+        protected Random rnd = new Random();
         //Properties of Class
         public string PlayerName { get; set; }
         public string Clan { get; set; }
         public string Weapon { get; set; }
         public int CurrentPower { get; set; }
         public CharacterType Type { get; set; }
-
         //Class Constructor
         public Players(string name, string clanName, string weapon, CharacterType type = CharacterType.HorseMange)
         {
@@ -37,7 +42,7 @@ namespace _0._16_Adventure_Game
         //Method
         public CharacterType ChooseType(int t)
         {
-            switch(t)
+            switch (t)
             {
                 case 0:
                     Console.WriteLine("You are an Assassin");
@@ -70,23 +75,35 @@ namespace _0._16_Adventure_Game
         {
             Console.WriteLine("Hello {0} your power level is full at {1}", PlayerName, CurrentPower);
         }
-
         public void BattleCry()
         {
             Console.WriteLine("{0} screams out 'I shall end you!'", PlayerName);
         }
-
         public void WeaponOfChoice()
         {
             Console.WriteLine("I shall use my weapon of choice.. the {0}!", Weapon);
         }
+       
+        
+        
+        
+        //Setting a target for Player
+        public void PlayerAttack(Goblin Azark, Dictionary<string, int> dict, Object enemyName)
+        {
+            var singleAttack = dict.ElementAt(rnd.Next(dict.Count));
+            int attackVal = singleAttack.Value;
+            string attackName = singleAttack.Key;
 
+            Console.WriteLine("{0} is attacking {1} with {2}, which deals {3}HP", this.PlayerName, Azark.Name, attackName, attackVal);
 
+            Console.WriteLine("{0}'s power was at {1}HP", Azark.Name, Azark.PowerLevel);
+            Azark.PowerLevel -= attackVal; //player.CurrentPower = player.CurrentPower -15
+                   
+        }
 
-
-
-
-
+        public void PlayerAttack(Goblin azark)
+        {
+            PlayerAttack(azark, Fighting, this.PlayerName);
+        }
     }
-
 }
