@@ -27,7 +27,7 @@ namespace _0._16_Adventure_Game
         public override void Insult()
         {
             int r = rnd.Next(insult.Count);
-            Console.WriteLine("I am {0} you {1}", this.Name, insult[r]);
+            Console.WriteLine("I am {0} at a full health of {1}pts you {2}!", this.Name, this.PowerLevel, insult[r]);
         }
         
     }

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace _0._16_Adventure_Game
 {
-    class Enemies
+    abstract class Enemies //further protects enemy class
     {
                                         //      0       1           2           3           4           5
         protected ArrayList insult = new ArrayList { "buck-o", "wimp", "window licker", "noob", "nerd cakes", "buster" };
@@ -17,7 +17,10 @@ namespace _0._16_Adventure_Game
 
         //Constructors
 
-        
+        public Enemies()
+        {
+            this.PowerLevel = 40;
+        }
 
         //Methods
         public virtual void Insult ()
@@ -32,7 +35,23 @@ namespace _0._16_Adventure_Game
 
         public void EnemyPowerLevel()
         {
-            Console.WriteLine("{0} is also at {1}", Name, PowerLevel);
+            Console.WriteLine("{0} is also at full health at {1}", Name, PowerLevel);
+        }
+        //setting a target for the enemy
+        public void Attack(Players player)
+        {
+            
+            Dictionary<string, int> Attacks = new Dictionary<string, int> {
+                { "Head-Butt", 5 },
+                { "Mallet", 5 },
+                {"Poison Fangs", 35}
+            };
+
+
+            Console.WriteLine("{0}'s power is at {1} pts", player.PlayerName, player.CurrentPower);
+            player.CurrentPower -= 15; //player.CurrentPower = player.CurrentPower -15
+
+
         }
     }
 }
