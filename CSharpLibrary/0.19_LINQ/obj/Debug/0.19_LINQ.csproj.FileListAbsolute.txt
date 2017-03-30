@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.19_LINQ\bin\Debug\0.19_LINQ.exe.config
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.19_LINQ\bin\Debug\0.19_LINQ.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.19_LINQ\bin\Debug\0.19_LINQ.pdb
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.19_LINQ\obj\Debug\0.19_LINQ.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.19_LINQ\obj\Debug\0.19_LINQ.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.19_LINQ\obj\Debug\0.19_LINQ.pdb

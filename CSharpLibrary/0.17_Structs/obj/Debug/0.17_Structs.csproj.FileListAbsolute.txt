@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.17_Structs\bin\Debug\0.17_Structs.exe.config
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.17_Structs\bin\Debug\0.17_Structs.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.17_Structs\bin\Debug\0.17_Structs.pdb
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.17_Structs\obj\Debug\0.17_Structs.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.17_Structs\obj\Debug\0.17_Structs.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.17_Structs\obj\Debug\0.17_Structs.pdb

@@ -36,14 +36,14 @@ namespace _0._04_Conditional_if
             //Next Challenge: Using a comparison operator for "and" using the isAdmin, and a new bool for 
             //isLoggedIn create an If statement that prints out "You are logged in! and you are an Admin."
 
-            bool isAdmin = true;
-            bool isLoggedIn = true;
+            //bool isAdmin = true;
+            //bool isLoggedIn = true;
 
-            if (isAdmin && isLoggedIn)
-            {
-                Console.WriteLine("You are logged in! and you are an Admin.");
-            }
-            Console.ReadLine();
+            //if (isAdmin && isLoggedIn)
+            //{
+              //  Console.WriteLine("You are logged in! and you are an Admin.");
+            //}
+            //Console.ReadLine();
 
          
             

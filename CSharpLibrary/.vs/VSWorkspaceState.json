@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    "\\0.07_Methods"
+    "",
+    "\\0.04_Conditionals_if_else",
+    "\\0.04_Conditional_if",
+    "\\0.07_Methods",
+    "\\0.07_Methods_Overloading",
+    "\\0.13_Access_Modifiers",
+    "\\0.16_Adventure_Game"
   ],
+  "SelectedNode": "\\0.04_Conditional_if\\0.04_Conditional_if.csproj",
   "PreviewInSolutionExplorer": false
 }
