@@ -15,7 +15,7 @@ namespace _0._09_For_Loops
             //lcv +=1;
             //lcv ++;
 
-            /*for(int lcv = 0; lcv < 6; lcv +=1)
+            for(int lcv = 0; lcv < 6; lcv +=1)
             {
                 Console.WriteLine("Paulis a joker");
             }
@@ -23,11 +23,11 @@ namespace _0._09_For_Loops
             for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine(i + 1);
-            }*/
+            }
 
             //Challenge
 
-            /*for(int i = 0; i < 10; i++)
+            for(int i = 0; i < 10; i++)
             if (i % 2 == 0)
             {
                 Console.WriteLine("Even");
@@ -35,7 +35,7 @@ namespace _0._09_For_Loops
             else
             {
                 Console.WriteLine(i);
-            }*/
+            }
 
             int sum = 0;
             for (int i =0; i <=10; i++)
