@@ -69,7 +69,7 @@ namespace _0._16_Adventure_Game
         }
         public override string ToString()
         {
-            return $"Player Name: {this.PlayerName}\nGamer Name: {this.Clan}\nWeapon of Choice: {this.Weapon}\nPlayer Type: {this.Type}";
+            return "Player Name: {this.PlayerName}\nGamer Name: {this.Clan}\nWeapon of Choice: {this.Weapon}\nPlayer Type: {this.Type}";
         }
         public void PowerLevelCheck()
         {
