@@ -6,21 +6,22 @@ using System.Threading.Tasks;
 
 namespace _0._22_Knowledge_Check
 {
+    //4.
+
+    public enum GenderType
+    {
+        Male = 0,
+        Female = 1,
+        Undefined = 2
+    }
     class Customer
     {
-       //4.
-       
-            public enum GenderType
-        {
-            Male = 0,
-            Female = 1,
-            Undefined = 2
-        }
+      
 
         //Constructor
         //5. 
 
-        public Customer(string customerName, string purchase, GenderType type)
+        public Customer(string customerName, string purchase, GenderType type= GenderType.Undefined)
         {
             this.CustomerName = customerName;
             this.Purchase = purchase;
@@ -35,27 +36,7 @@ namespace _0._22_Knowledge_Check
 
         //Method
        
-       public GenderType Choosetype (int t)
-        {
-            switch (t)
-            {
-                case 0:
-                    Console.WriteLine("Male");
-                    return this.Type = GenderType.Male;
-                case 1:
-                    Console.WriteLine("Female");
-                    return this.Type = GenderType.Female;
-                case 2:
-                    Console.WriteLine("Undefined");
-                    return this.Type = GenderType.Undefined;
-                default:
-                    Console.WriteLine("Undefined");
-                    return this.Type = GenderType.Undefined;
-
-            }
-        }
-
-       //6.
+      //6.
 
         public void ThankYou ()
         {

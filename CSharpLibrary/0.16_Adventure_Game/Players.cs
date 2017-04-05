@@ -15,15 +15,7 @@ namespace _0._16_Adventure_Game
         TaxMan = 4,
         Human = 5
     }
-    public enum WeaponChoice
-    {
-        Sword = 0,
-        Bow = 1,
-        Spear = 2, 
-         = 3,
-
-
-    }
+    
     class Players
     {
         Dictionary<string, int> Fighting = new Dictionary<string, int> {

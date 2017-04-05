@@ -6,17 +6,18 @@ using System.Threading.Tasks;
 
 namespace _0._22_Knowledge_Check
 {
+    //12.
+    public enum ReasonsForInactivity
+    {
+        SwitchedService = 0,
+        Moved = 1,
+        PrefersDifferentCompany = 2,
+        Broke = 3
+
+    }
     class InactiveCustomer : Customer
     {
-        //12.
-        public enum ReasonsForInactivity
-        {
-            SwitchedService = 0,
-            Moved = 1,
-            PrefersDifferentCompany = 2,
-            Broke = 3
-
-        }
+        
 
         //7. 
 
@@ -29,7 +30,7 @@ namespace _0._22_Knowledge_Check
         }
 
         //Property
-        public int MonthsInactive { get; set; }
+        private int MonthsInactive { get; set; }
         public ReasonsForInactivity Reasons { get; set; }
 
 

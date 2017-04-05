@@ -47,13 +47,13 @@ namespace _0._22_Knowledge_Check
 
             //10. 
 
-            Customer adam = new Customer("Adam", "iPhone 7", 0);
+            Customer adam = new Customer("Adam", "iPhone 7", GenderType.Male);
 
             adam.ThankYou();
             adam.SendSalesNotice();
             Console.WriteLine("===============");
 
-            InactiveCustomer lauren = new InactiveCustomer("Lauren", "iphone SE", 0, 10, 0);
+            InactiveCustomer lauren = new InactiveCustomer("Lauren", "iPhone SE", GenderType.Female, 10, ReasonsForInactivity.Broke);
 
             lauren.SendSalesNotice();
 
