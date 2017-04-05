@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.22_Knowledge_Check\obj\Debug\0.22_Knowledge_Check.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.22_Knowledge_Check\bin\Debug\0.22_Knowledge_Check.exe.config
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.22_Knowledge_Check\bin\Debug\0.22_Knowledge_Check.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.22_Knowledge_Check\bin\Debug\0.22_Knowledge_Check.pdb
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.22_Knowledge_Check\obj\Debug\0.22_Knowledge_Check.exe
+\\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.22_Knowledge_Check\obj\Debug\0.22_Knowledge_Check.pdb

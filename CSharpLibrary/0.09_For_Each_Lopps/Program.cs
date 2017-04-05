@@ -44,7 +44,13 @@ namespace _0._09_For_Each_Lopps
                 Console.WriteLine(name);
             }
 
+            Console.WriteLine("====================");
+            string[] friends = new string[] { "Lauren", "Brad", "Michael", "Anthony", "Josh" };
 
+            foreach (string friend in friends)
+            {
+                Console.WriteLine(friend);
+            }
             Console.ReadLine();
         }
     }
