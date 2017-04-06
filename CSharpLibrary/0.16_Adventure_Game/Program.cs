@@ -11,6 +11,8 @@ namespace _0._16_Adventure_Game
     {
         static void Main(string[] args)
         {
+            Console.Title = "Adventure Game";
+            MainAppTitle();
 
 
             //SpeechSynthesizer talkingConsole = new SpeechSynthesizer();
@@ -114,6 +116,20 @@ namespace _0._16_Adventure_Game
 
 
             Console.ReadLine();
+        }
+        private static void MainAppTitle()
+        {
+            Console.Clear();
+            string appTitle = @"  ___      _                 _                    _____                      
+ / _ \    | |               | |                  |  __ \                     
+/ /_\ \ __| |_   _____ _ __ | |_ _   _ _ __ ___  | |  \/ __ _ _ __ ___   ___ 
+|  _  |/ _` \ \ / / _ \ '_ \| __| | | | '__/ _ \ | | __ / _` | '_ ` _ \ / _ \
+| | | | (_| |\ V /  __/ | | | |_| |_| | | |  __/ | |_\ \ (_| | | | | | |  __/
+\_| |_/\__,_| \_/ \___|_| |_|\__|\__,_|_|  \___|  \____/\__,_|_| |_| |_|\___|
+                                                                              ";
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine(appTitle);
+            Console.ForegroundColor = ConsoleColor.White;
         }
     }
 }

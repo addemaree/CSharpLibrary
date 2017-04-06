@@ -53,7 +53,7 @@ namespace _0._22_Knowledge_Check
             adam.SendSalesNotice();
             Console.WriteLine("===============");
 
-            InactiveCustomer lauren = new InactiveCustomer("Lauren", "iPhone SE", GenderType.Female, 10, ReasonsForInactivity.Broke);
+            InactiveCustomer lauren = new InactiveCustomer("Lauren", "iPhone SE", GenderType.Female, 10, ReasonsForInactivity.PrefersDifferentCompany);
 
             lauren.SendSalesNotice();
 
