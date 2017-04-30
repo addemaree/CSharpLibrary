@@ -4,3 +4,9 @@
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.09_For_Each_Lopps\obj\Debug\0.09_For_Each_Lopps.csprojResolveAssemblyReference.cache
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.09_For_Each_Lopps\obj\Debug\0.09_For_Each_Lopps.exe
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.09_For_Each_Lopps\obj\Debug\0.09_For_Each_Lopps.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.09_For_Each_Lopps\bin\Debug\0.09_For_Each_Lopps.exe.config
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.09_For_Each_Lopps\bin\Debug\0.09_For_Each_Lopps.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.09_For_Each_Lopps\bin\Debug\0.09_For_Each_Lopps.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.09_For_Each_Lopps\obj\Debug\0.09_For_Each_Lopps.csprojResolveAssemblyReference.cache
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.09_For_Each_Lopps\obj\Debug\0.09_For_Each_Lopps.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.09_For_Each_Lopps\obj\Debug\0.09_For_Each_Lopps.pdb

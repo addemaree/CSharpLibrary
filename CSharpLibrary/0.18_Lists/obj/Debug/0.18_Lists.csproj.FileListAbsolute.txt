@@ -3,3 +3,8 @@
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.18_Lists\bin\Debug\0.18_Lists.pdb
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.18_Lists\obj\Debug\0.18_Lists.exe
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.18_Lists\obj\Debug\0.18_Lists.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.18_Lists\bin\Debug\0.18_Lists.exe.config
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.18_Lists\bin\Debug\0.18_Lists.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.18_Lists\bin\Debug\0.18_Lists.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.18_Lists\obj\Debug\0.18_Lists.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.18_Lists\obj\Debug\0.18_Lists.pdb

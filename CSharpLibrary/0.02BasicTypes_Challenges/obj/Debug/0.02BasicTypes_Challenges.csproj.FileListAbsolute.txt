@@ -3,3 +3,9 @@
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.02BasicTypes_Challenges\bin\Debug\0.02BasicTypes_Challenges.pdb
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.02BasicTypes_Challenges\obj\Debug\0.02BasicTypes_Challenges.exe
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.02BasicTypes_Challenges\obj\Debug\0.02BasicTypes_Challenges.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.02BasicTypes_Challenges\bin\Debug\0.02BasicTypes_Challenges.exe.config
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.02BasicTypes_Challenges\bin\Debug\0.02BasicTypes_Challenges.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.02BasicTypes_Challenges\bin\Debug\0.02BasicTypes_Challenges.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.02BasicTypes_Challenges\obj\Debug\0.02BasicTypes_Challenges.csprojResolveAssemblyReference.cache
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.02BasicTypes_Challenges\obj\Debug\0.02BasicTypes_Challenges.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.02BasicTypes_Challenges\obj\Debug\0.02BasicTypes_Challenges.pdb

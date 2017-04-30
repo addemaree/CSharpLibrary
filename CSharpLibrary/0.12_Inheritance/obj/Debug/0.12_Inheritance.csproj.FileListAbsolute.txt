@@ -4,3 +4,9 @@
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.12_Inheritance\obj\Debug\0.12_Inheritance.csprojResolveAssemblyReference.cache
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.12_Inheritance\obj\Debug\0.12_Inheritance.exe
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.12_Inheritance\obj\Debug\0.12_Inheritance.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.12_Inheritance\bin\Debug\0.12_Inheritance.exe.config
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.12_Inheritance\bin\Debug\0.12_Inheritance.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.12_Inheritance\bin\Debug\0.12_Inheritance.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.12_Inheritance\obj\Debug\0.12_Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.12_Inheritance\obj\Debug\0.12_Inheritance.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.12_Inheritance\obj\Debug\0.12_Inheritance.pdb

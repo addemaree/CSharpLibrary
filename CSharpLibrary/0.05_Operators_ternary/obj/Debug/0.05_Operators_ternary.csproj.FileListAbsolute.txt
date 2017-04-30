@@ -3,3 +3,8 @@
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.05_Operators_ternary\bin\Debug\0.05_Operators_ternary.pdb
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.05_Operators_ternary\obj\Debug\0.05_Operators_ternary.exe
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.05_Operators_ternary\obj\Debug\0.05_Operators_ternary.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.05_Operators_ternary\bin\Debug\0.05_Operators_ternary.exe.config
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.05_Operators_ternary\bin\Debug\0.05_Operators_ternary.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.05_Operators_ternary\bin\Debug\0.05_Operators_ternary.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.05_Operators_ternary\obj\Debug\0.05_Operators_ternary.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.05_Operators_ternary\obj\Debug\0.05_Operators_ternary.pdb

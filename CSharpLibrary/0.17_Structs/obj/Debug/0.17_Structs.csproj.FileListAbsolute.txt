@@ -4,3 +4,6 @@
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.17_Structs\obj\Debug\0.17_Structs.csprojResolveAssemblyReference.cache
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.17_Structs\obj\Debug\0.17_Structs.exe
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.17_Structs\obj\Debug\0.17_Structs.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.17_Structs\obj\Debug\0.17_Structs.csprojResolveAssemblyReference.cache
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.17_Structs\obj\Debug\0.17_Structs.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.17_Structs\obj\Debug\0.17_Structs.pdb

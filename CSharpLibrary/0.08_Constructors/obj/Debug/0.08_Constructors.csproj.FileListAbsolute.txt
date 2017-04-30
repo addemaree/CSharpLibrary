@@ -4,3 +4,9 @@
 \\mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.08_Constructors\obj\Debug\0.08_Constructors.csprojResolveAssemblyReference.cache
 \\mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.08_Constructors\obj\Debug\0.08_Constructors.exe
 \\mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.08_Constructors\obj\Debug\0.08_Constructors.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.08_Constructors\bin\Debug\0.08_Constructors.exe.config
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.08_Constructors\bin\Debug\0.08_Constructors.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.08_Constructors\bin\Debug\0.08_Constructors.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.08_Constructors\obj\Debug\0.08_Constructors.csprojResolveAssemblyReference.cache
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.08_Constructors\obj\Debug\0.08_Constructors.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.08_Constructors\obj\Debug\0.08_Constructors.pdb

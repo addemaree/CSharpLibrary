@@ -4,3 +4,9 @@
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods\bin\Debug\0.07_Methods.pdb
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods\obj\Debug\0.07_Methods.exe
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods\obj\Debug\0.07_Methods.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods\bin\Debug\0.07_Methods.exe.config
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods\bin\Debug\0.07_Methods.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods\bin\Debug\0.07_Methods.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods\obj\Debug\0.07_Methods.csprojResolveAssemblyReference.cache
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods\obj\Debug\0.07_Methods.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods\obj\Debug\0.07_Methods.pdb

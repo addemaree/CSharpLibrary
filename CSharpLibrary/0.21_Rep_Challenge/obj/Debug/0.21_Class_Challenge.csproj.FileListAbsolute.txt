@@ -1,0 +1,5 @@
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.21_Rep_Challenge\bin\Debug\0.21_Rep_Challenge.exe.config
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.21_Rep_Challenge\bin\Debug\0.21_Rep_Challenge.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.21_Rep_Challenge\bin\Debug\0.21_Rep_Challenge.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.21_Rep_Challenge\obj\Debug\0.21_Rep_Challenge.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.21_Rep_Challenge\obj\Debug\0.21_Rep_Challenge.pdb

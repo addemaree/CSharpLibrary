@@ -1,0 +1,5 @@
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods_Self_Practice\bin\Debug\0.07_Methods_Self_Practice.exe.config
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods_Self_Practice\bin\Debug\0.07_Methods_Self_Practice.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods_Self_Practice\bin\Debug\0.07_Methods_Self_Practice.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods_Self_Practice\obj\Debug\0.07_Methods_Self_Practice.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods_Self_Practice\obj\Debug\0.07_Methods_Self_Practice.pdb

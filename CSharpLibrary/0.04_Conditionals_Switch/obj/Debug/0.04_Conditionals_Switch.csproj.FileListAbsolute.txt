@@ -4,3 +4,9 @@
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditionals_Switch\obj\Debug\0.04_Conditionals_Switch.exe
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditionals_Switch\obj\Debug\0.04_Conditionals_Switch.pdb
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditionals_Switch\obj\Debug\0.04_Conditionals_Switch.csprojResolveAssemblyReference.cache
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditionals_Switch\bin\Debug\0.04_Conditionals_Switch.exe.config
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditionals_Switch\bin\Debug\0.04_Conditionals_Switch.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditionals_Switch\bin\Debug\0.04_Conditionals_Switch.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditionals_Switch\obj\Debug\0.04_Conditionals_Switch.csprojResolveAssemblyReference.cache
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditionals_Switch\obj\Debug\0.04_Conditionals_Switch.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditionals_Switch\obj\Debug\0.04_Conditionals_Switch.pdb

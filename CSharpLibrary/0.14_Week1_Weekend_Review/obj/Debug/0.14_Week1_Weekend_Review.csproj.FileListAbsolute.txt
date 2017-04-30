@@ -1,0 +1,5 @@
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.14_Week1_Weekend_Review\bin\Debug\0.14_Week1_Weekend_Review.exe.config
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.14_Week1_Weekend_Review\bin\Debug\0.14_Week1_Weekend_Review.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.14_Week1_Weekend_Review\bin\Debug\0.14_Week1_Weekend_Review.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.14_Week1_Weekend_Review\obj\Debug\0.14_Week1_Weekend_Review.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.14_Week1_Weekend_Review\obj\Debug\0.14_Week1_Weekend_Review.pdb

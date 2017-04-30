@@ -4,3 +4,9 @@
 \\mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods_Netflix_Challenge\obj\Debug\0.07_Methods_Netflix_Challenge.exe
 \\mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods_Netflix_Challenge\obj\Debug\0.07_Methods_Netflix_Challenge.pdb
 \\mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods_Netflix_Challenge\obj\Debug\0.07_Methods_Netflix_Challenge.csprojResolveAssemblyReference.cache
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods_Netflix_Challenge\bin\Debug\0.07_Methods_Netflix_Challenge.exe.config
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods_Netflix_Challenge\bin\Debug\0.07_Methods_Netflix_Challenge.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods_Netflix_Challenge\bin\Debug\0.07_Methods_Netflix_Challenge.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods_Netflix_Challenge\obj\Debug\0.07_Methods_Netflix_Challenge.csprojResolveAssemblyReference.cache
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods_Netflix_Challenge\obj\Debug\0.07_Methods_Netflix_Challenge.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.07_Methods_Netflix_Challenge\obj\Debug\0.07_Methods_Netflix_Challenge.pdb

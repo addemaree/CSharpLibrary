@@ -1,0 +1,9 @@
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.23_Matching_Game_Pairs\bin\Debug\0.23_Matching_Game_Pairs.exe.config
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.23_Matching_Game_Pairs\bin\Debug\0.23_Matching_Game_Pairs.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.23_Matching_Game_Pairs\bin\Debug\0.23_Matching_Game_Pairs.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.23_Matching_Game_Pairs\obj\Debug\0.23_Matching_Game_Pairs.csprojResolveAssemblyReference.cache
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.23_Matching_Game_Pairs\obj\Debug\_0._23_Matching_Game_Pairs.Form1.resources
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.23_Matching_Game_Pairs\obj\Debug\_0._23_Matching_Game_Pairs.Properties.Resources.resources
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.23_Matching_Game_Pairs\obj\Debug\0.23_Matching_Game_Pairs.csproj.GenerateResource.Cache
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.23_Matching_Game_Pairs\obj\Debug\0.23_Matching_Game_Pairs.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.23_Matching_Game_Pairs\obj\Debug\0.23_Matching_Game_Pairs.pdb

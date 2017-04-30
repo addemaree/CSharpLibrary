@@ -4,3 +4,9 @@
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\ConsoleApp1\obj\Debug\0.20_Brain_Talk.csprojResolveAssemblyReference.cache
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\ConsoleApp1\obj\Debug\0.20_Brain_Talk.csprojResolveAssemblyReference.cache
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

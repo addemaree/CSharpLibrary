@@ -4,3 +4,9 @@
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditional_if\bin\Debug\0.04_Conditional_if.pdb
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditional_if\obj\Debug\0.04_Conditional_if.exe
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditional_if\obj\Debug\0.04_Conditional_if.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditional_if\bin\Debug\0.04_Conditional_if.exe.config
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditional_if\bin\Debug\0.04_Conditional_if.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditional_if\bin\Debug\0.04_Conditional_if.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditional_if\obj\Debug\0.04_Conditional_if.csprojResolveAssemblyReference.cache
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditional_if\obj\Debug\0.04_Conditional_if.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.04_Conditional_if\obj\Debug\0.04_Conditional_if.pdb

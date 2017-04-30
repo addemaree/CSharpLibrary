@@ -4,3 +4,9 @@
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.22_Knowledge_Check\bin\Debug\0.22_Knowledge_Check.pdb
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.22_Knowledge_Check\obj\Debug\0.22_Knowledge_Check.exe
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.22_Knowledge_Check\obj\Debug\0.22_Knowledge_Check.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.22_Knowledge_Check\bin\Debug\0.22_Knowledge_Check.exe.config
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.22_Knowledge_Check\bin\Debug\0.22_Knowledge_Check.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.22_Knowledge_Check\bin\Debug\0.22_Knowledge_Check.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.22_Knowledge_Check\obj\Debug\0.22_Knowledge_Check.csprojResolveAssemblyReference.cache
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.22_Knowledge_Check\obj\Debug\0.22_Knowledge_Check.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.22_Knowledge_Check\obj\Debug\0.22_Knowledge_Check.pdb

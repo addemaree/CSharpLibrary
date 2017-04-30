@@ -3,3 +3,8 @@
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.14_Bob_Tabor_Understanding_Arrays\bin\Debug\0.14_Bob_Tabor_Understanding_Arrays.pdb
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.14_Bob_Tabor_Understanding_Arrays\obj\Debug\0.14_Bob_Tabor_Understanding_Arrays.exe
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.14_Bob_Tabor_Understanding_Arrays\obj\Debug\0.14_Bob_Tabor_Understanding_Arrays.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.14_Bob_Tabor_Understanding_Arrays\bin\Debug\0.14_Bob_Tabor_Understanding_Arrays.exe.config
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.14_Bob_Tabor_Understanding_Arrays\bin\Debug\0.14_Bob_Tabor_Understanding_Arrays.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.14_Bob_Tabor_Understanding_Arrays\bin\Debug\0.14_Bob_Tabor_Understanding_Arrays.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.14_Bob_Tabor_Understanding_Arrays\obj\Debug\0.14_Bob_Tabor_Understanding_Arrays.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.14_Bob_Tabor_Understanding_Arrays\obj\Debug\0.14_Bob_Tabor_Understanding_Arrays.pdb

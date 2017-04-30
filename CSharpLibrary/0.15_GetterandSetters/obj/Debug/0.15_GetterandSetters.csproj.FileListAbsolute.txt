@@ -4,3 +4,9 @@
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.15_GetterandSetters\obj\Debug\0.15_GetterandSetters.csprojResolveAssemblyReference.cache
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.15_GetterandSetters\obj\Debug\0.15_GetterandSetters.exe
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.15_GetterandSetters\obj\Debug\0.15_GetterandSetters.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.15_GetterandSetters\bin\Debug\0.15_GetterandSetters.exe.config
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.15_GetterandSetters\bin\Debug\0.15_GetterandSetters.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.15_GetterandSetters\bin\Debug\0.15_GetterandSetters.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.15_GetterandSetters\obj\Debug\0.15_GetterandSetters.csprojResolveAssemblyReference.cache
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.15_GetterandSetters\obj\Debug\0.15_GetterandSetters.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.15_GetterandSetters\obj\Debug\0.15_GetterandSetters.pdb

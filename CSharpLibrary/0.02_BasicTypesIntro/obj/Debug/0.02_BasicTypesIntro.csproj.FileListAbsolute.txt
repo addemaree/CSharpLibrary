@@ -4,3 +4,9 @@
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.02_BasicTypesIntro\obj\Debug\0.02_BasicTypesIntro.csprojResolveAssemblyReference.cache
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.02_BasicTypesIntro\obj\Debug\0.02_BasicTypesIntro.exe
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.02_BasicTypesIntro\obj\Debug\0.02_BasicTypesIntro.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.02_BasicTypesIntro\bin\Debug\0.02_BasicTypesIntro.exe.config
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.02_BasicTypesIntro\bin\Debug\0.02_BasicTypesIntro.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.02_BasicTypesIntro\bin\Debug\0.02_BasicTypesIntro.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.02_BasicTypesIntro\obj\Debug\0.02_BasicTypesIntro.csprojResolveAssemblyReference.cache
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.02_BasicTypesIntro\obj\Debug\0.02_BasicTypesIntro.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.02_BasicTypesIntro\obj\Debug\0.02_BasicTypesIntro.pdb

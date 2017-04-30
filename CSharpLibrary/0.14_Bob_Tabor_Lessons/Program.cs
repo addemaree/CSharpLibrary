@@ -45,34 +45,34 @@ namespace _0._14_Bob_Tabor_Lessons
             //userValue = Console.ReadLine();
             //Console.WriteLine("You typed: " + userValue);
 
-            //Console.WriteLine("Which coach would you like to coach Indiana? Archie Miller, Dane Fife, Billy Donovan, or Tom Crean?");
-            //string coachValue = Console.ReadLine();
+            Console.WriteLine("Which coach would you like to coach Indiana? Archie Miller, Dane Fife, Billy Donovan, or Tom Crean?");
+            string coachValue = Console.ReadLine();
 
-            //if (coachValue == "Archie Miller")
-            //{
-            //    Console.WriteLine("You chose correctly!");
-            //    Console.ReadLine();
-            //}
-            //else if (coachValue == "Dane Fife")
-            //{                
-            //    Console.WriteLine("Psh I wish!");
-            //    Console.ReadLine();
-            //}
-            //else if (coachValue == "Billy Donovan")
-            //{                
-            //    Console.WriteLine("In your dreams!");
-            //    Console.ReadLine();
-            //}
-            //else if (coachValue == "Tom Crean")
-            //{                
-            //    Console.WriteLine("Quit living in the past!");
-            //    Console.ReadLine();
-            //}
-            //else
-            //{               
-            //    Console.WriteLine("No one cares about him..");
-            //    Console.ReadLine();
-            //}
+            if (coachValue == "Archie Miller")
+            {
+                Console.WriteLine("You chose correctly!");
+                Console.ReadLine();
+            }
+            else if (coachValue == "Dane Fife")
+            {
+                Console.WriteLine("Psh I wish!");
+                Console.ReadLine();
+            }
+            else if (coachValue == "Billy Donovan")
+            {
+                Console.WriteLine("In your dreams!");
+                Console.ReadLine();
+            }
+            else if (coachValue == "Tom Crean")
+            {
+                Console.WriteLine("Quit living in the past!");
+                Console.ReadLine();
+            }
+            else
+            {
+                Console.WriteLine("No one cares about him..");
+                Console.ReadLine();
+            }
 
             //Console.WriteLine(message);
             //Console.ReadLine();
@@ -80,7 +80,7 @@ namespace _0._14_Bob_Tabor_Lessons
             //This is the same thing as:
 
             Console.WriteLine("Which coach would you like to coach Indiana? Archie Miller, Dane Fife, Billy Donovan, or Tom Crean?");
-            string coachValue = Console.ReadLine();
+            string coachChoice = Console.ReadLine();
 
             string message;
 
@@ -110,7 +110,7 @@ namespace _0._14_Bob_Tabor_Lessons
             }
 
             Console.WriteLine(message);
-            //Console.ReadLine();
+            Console.ReadLine();
 
 
             //Console.WriteLine("Which of these choices do you conside your best friend? Kayley, Maddie, Katy, Rachel, Adam");

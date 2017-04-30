@@ -4,3 +4,9 @@
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.14_Bob_Tabor_Lessons_For_Iterations\obj\Debug\0.14_Bob_Tabor_Lessons_For_Iterations.exe
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.14_Bob_Tabor_Lessons_For_Iterations\obj\Debug\0.14_Bob_Tabor_Lessons_For_Iterations.pdb
 \\Mac\Home\Desktop\GitHub\csharp\CSharpLibrary\0.14_Bob_Tabor_Lessons_For_Iterations\obj\Debug\0.14_Bob_Tabor_Lessons_For_Iterations.csprojResolveAssemblyReference.cache
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.14_Bob_Tabor_Lessons_For_Iterations\bin\Debug\0.14_Bob_Tabor_Lessons_For_Iterations.exe.config
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.14_Bob_Tabor_Lessons_For_Iterations\bin\Debug\0.14_Bob_Tabor_Lessons_For_Iterations.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.14_Bob_Tabor_Lessons_For_Iterations\bin\Debug\0.14_Bob_Tabor_Lessons_For_Iterations.pdb
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.14_Bob_Tabor_Lessons_For_Iterations\obj\Debug\0.14_Bob_Tabor_Lessons_For_Iterations.csprojResolveAssemblyReference.cache
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.14_Bob_Tabor_Lessons_For_Iterations\obj\Debug\0.14_Bob_Tabor_Lessons_For_Iterations.exe
+C:\Users\addemaree\Desktop\GitHub\csharp\CSharpLibrary\0.14_Bob_Tabor_Lessons_For_Iterations\obj\Debug\0.14_Bob_Tabor_Lessons_For_Iterations.pdb
